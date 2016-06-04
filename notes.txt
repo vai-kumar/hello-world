@@ -1,1 +1,2 @@
 Stashing some notes..
+1. First things first, don't commit to master directly, always use branch
